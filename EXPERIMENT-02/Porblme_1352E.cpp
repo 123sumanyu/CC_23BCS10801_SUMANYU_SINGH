@@ -1,5 +1,6 @@
 #define _USE_MATH_DEFINES
-#undef _GLIBCXX_DEBUG
+#undef _GLIBCXX_DEBUG 
+
 
 #include<bits/stdc++.h>
 #include<ext/pb_ds/assoc_container.hpp>
